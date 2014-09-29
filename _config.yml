@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Blaine Hodge
+  name: Stinger Games
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Independent mobile game developer."
+  email: contact@stingergames.com
   disqus-shortname: 
-  twitter: #username
+  twitter: nullterm
   facebook: #username
   google:
     plus: #username
@@ -40,10 +40,10 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: StingerGames
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: StingerGames
   lastfm: #username
   tumblr: #username
   pinterest: #username
