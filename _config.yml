@@ -1,55 +1,18 @@
-# Site wide configuration
+# site details
+name: Spaceman
+description: Spaceman is the default Jekyll theme
+url: http://lucianmarin.com/spaceman/
 
-title:            Stinger Games
-locale:           en_US
-url:              http://stingergames.github.io
+# social profiles. just remove unneeded profiles.
+behance: lucianmarin
+dribbble: lucianmarin
+github: lucianmarin/spaceman
+instagram: lucianmarin
+tumblr: lucianmarin
+twitter: lucianmarin
 
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
 highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+permalink: /article/:title.html
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-
-# Site owner
-owner:
-  name: Stinger Games
-  avatar: bio-photo.jpg
-  bio: "Independent mobile<br>game developer."
-  email: contact@stingergames.com
-  disqus-shortname: 
-  twitter: StingerGames
-  facebook: #username
-  google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: StingerGames
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #StingerGames
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: [readme.md]
+include: [.htaccess]

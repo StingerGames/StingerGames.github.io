@@ -1,23 +1,21 @@
-# Minimal Mistakes
+Spaceman
+========
 
-**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
+The default Jekyll theme.
 
-## Minimal Mistakes is all about:
+### Features
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Responsive design (tablet 1st, smartphone 2nd, desktop 3rd)
+* Two different styles (Light/Dark)
+* Pygments support with Solarized (Light/Dark)
+* Webfonts used: Source Sans Pro and Ubuntu families
+* Sass by default (compiled CSS files included)
+* Multiple authors support
+* Social bar icons (easy to change IDs from _config.yml)
+* Contact styles for email/chat
 
-![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
+### Contributors
 
-See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) hosted on GitHub.
+@[lucianmarin](https://github.com/lucianmarin) — idea, design, development
 
-## Getting Started
-
-Minimal Mistakes takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
-
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.
+@[razvanh](https://github.com/razvanh) — tips and feedback
