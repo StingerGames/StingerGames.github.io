@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 excerpt: "Our games..."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
