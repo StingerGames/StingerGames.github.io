@@ -28,10 +28,10 @@ kramdown:
 owner:
   name: Stinger Games
   avatar: bio-photo.jpg
-  bio: "Independent mobile game developer."
+  bio: "Indie mobile game developer."
   email: contact@stingergames.com
   disqus-shortname: 
-  twitter: nullterm
+  twitter: StingerGames
   facebook: #username
   google:
     plus: #username
@@ -43,7 +43,7 @@ owner:
   github: StingerGames
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: StingerGames
+  instagram: #StingerGames
   lastfm: #username
   tumblr: #username
   pinterest: #username
