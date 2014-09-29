@@ -180,7 +180,7 @@ a.typo {
 .post {
   margin-bottom: 30px; }
   .post p {
-    text-indent: 40px; }
+    text-indent: 0; }
     .post p:first-child {
       text-indent: 0; }
     .post p img {
@@ -212,7 +212,7 @@ a.typo {
     margin-left: 40px;
     color: gray; }
   .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
-    text-indent: 40px;
+    text-indent: 0px;
     color: #009ea0; }
   .post h1 {
     font-size: 30px;
