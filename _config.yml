@@ -1,15 +1,15 @@
 # site details
-name: Spaceman
-description: Spaceman is the default Jekyll theme
-url: http://lucianmarin.com/spaceman/
+name: Stinger Games
+description: Independent mobile game developer.
+url: http://stingergames.github.io
 
 # social profiles. just remove unneeded profiles.
-behance: lucianmarin
-dribbble: lucianmarin
-github: lucianmarin/spaceman
-instagram: lucianmarin
-tumblr: lucianmarin
-twitter: lucianmarin
+behance: #lucianmarin
+dribbble: #lucianmarin
+github: StingerGames
+instagram: #lucianmarin
+tumblr: #lucianmarin
+twitter: StingerGames
 
 highlighter: pygments
 permalink: /article/:title.html
