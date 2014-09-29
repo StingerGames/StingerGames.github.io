@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Stinger Games
 locale:           en_US
-url:              http://localhost:4000
+url:              http://stingergames.github.io
 
 
 # Jekyll configuration
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Blaine Hodge
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
