@@ -1,14 +1,17 @@
 ---
-layout: page
+layout: post
+title: Games
 excerpt: "Our games..."
-tags: [Jekyll, theme, responsive, blog, template]
+modified: 2013-05-31
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
 image:
-  feature: texture-feature-01.jpg
+  feature: texture-feature-05.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
 
-Coming soon...
+# Coming soon...
 
 [Sumo Boom](/sumoboom)
 
@@ -16,7 +19,7 @@ Coming soon...
 
 [War Control](/warcontrol)
 
-Already released...
+# Already released...
 
 [Team Canada Table Hockey](http://stingertablehockey.com)
 
