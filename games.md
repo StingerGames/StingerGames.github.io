@@ -2,7 +2,6 @@
 layout: post
 title: Games
 excerpt: "Our games..."
-modified: 2013-05-31
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:
@@ -10,6 +9,16 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
 # Coming soon...
 
