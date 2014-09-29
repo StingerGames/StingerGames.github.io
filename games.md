@@ -3,7 +3,7 @@ layout:     default
 title:      Stinger Games
 subtitle:   Games
 section:    games
-permalink:  /games
+permalink:  /games/
 style:      dark
 ---
 
